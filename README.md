@@ -1,5 +1,12 @@
-## Hi there 👋
+Hi there, I'm Niklas 👋
+I'm a 23-year-old Business Informatics & Data Science student with a passion for the intersection of technology and business strategy.
 
+Currently, I'm gaining practical experience in SAP consulting and project management at Schwarz IT. I am particularly interested in leveraging data to solve real-world business challenges and am always exploring new topics in the field of Machine Learning.
+
+🔗 Connect with me:
+<a href="[HIER-DEINEN-LINKEDIN-LINK-EINFÜGEN](https://de.linkedin.com/in/niklas-br%C3%A4uninger-8a1b36217)" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 <!--
 **NiklasBraeuninger/NiklasBraeuninger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
