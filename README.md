@@ -1,4 +1,4 @@
-<h1 align="center">Hi Daryl, I'm Niklas 👋</h1>
+<h1 align="center">Hi, I'm Niklas 👋</h1>
 
 ---
 <h2 align="center">🚀 About Me</h2>
@@ -6,7 +6,7 @@
 
 I’m currently working at <b>Schwarz IT</b> in <b>SAP Inhouse Consulting</b> and <b>Project Management</b>.  
 
-Alongside my work, I study <b>Business Informatics & Data Science</b>.  
+Alongside my work, I study <b>Business Informatics - Data Science</b>.  
 
 I’m deeply interested in <b>Machine Learning</b> and <b>AI</b> — for me, enterprise consulting and modern analytics complement each other perfectly.
 </p>
@@ -24,7 +24,6 @@ I’m deeply interested in <b>Machine Learning</b> and <b>AI</b> — for me, ent
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="48" height="48"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="Keras" width="48" height="48"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="48" height="48"/>
-<img src="https://raw.githubusercontent.com/plotly/plotly.py/master/doc/_static/plotly_logo.png" alt="Plotly" width="48" height="48"/>
 <img src="https://avatars.githubusercontent.com/u/45109972?s=200&v=4" alt="Streamlit" width="48" height="48"/>
 <!-- Platforms / Tools -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" alt="Neo4j" width="48" height="48"/>
@@ -34,7 +33,7 @@ I’m deeply interested in <b>Machine Learning</b> and <b>AI</b> — for me, ent
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="Slack" width="48" height="48"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="48" height="48"/>
 <!-- SAP (no devicon – using brand svg) -->
-<img src="https://cdn.worldvectorlogo.com/logos/sap-1.svg" alt="SAP" width="48" height="48"/>
+<img src="https://www.sap.com/content/dam/application/shared/logos/sap-logo-svg.svg" alt="SAP" width="85" height="85"/>
 </p>
 
 ---
