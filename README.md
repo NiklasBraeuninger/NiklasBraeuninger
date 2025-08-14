@@ -39,7 +39,7 @@ I’m  interested in <b>Machine Learning</b> and <b>AI</b> — for me, enterpris
 ---
 <h2 align="center">🌐 Connect with Me</h2>
 <p align="center">
-<a href="https://medium.com/@yourusername">
+<a href="https://medium.com/@niklas-abo">
 <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
 </a>
 <a href="https://de.linkedin.com/in/niklas-br%C3%A4uninger-8a1b36217">
