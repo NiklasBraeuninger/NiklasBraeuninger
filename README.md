@@ -6,9 +6,9 @@
 
 I’m currently working at <b>Schwarz IT</b> in <b>SAP Inhouse Consulting</b> and <b>Project Management</b>.  
 
-Alongside my work, I study <b>Business Informatics - Data Science</b>.  
+Alongside my work, I study <b>Business Informatics with a Data Science focus</b>.  
 
-I’m  interested in <b>Machine Learning</b> and <b>AI</b> — for me, enterprise  and modern analytics complement each other perfectly.
+I’m  interested in <b>Machine Learning</b>, <b>AI</b> and <b>Economics</b> — for me, enterprise  and modern analytics complement each other perfectly.
 </p>
 
 ---
