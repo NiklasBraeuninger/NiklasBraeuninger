@@ -8,7 +8,7 @@ I’m currently working at <b>Schwarz IT</b> in <b>SAP Inhouse Consulting</b> an
 
 Alongside my work, I study <b>Business Informatics - Data Science</b>.  
 
-I’m deeply interested in <b>Machine Learning</b> and <b>AI</b> — for me, enterprise consulting and modern analytics complement each other perfectly.
+I’m  interested in <b>Machine Learning</b> and <b>AI</b> — for me, enterprise  and modern analytics complement each other perfectly.
 </p>
 
 ---
@@ -45,7 +45,7 @@ I’m deeply interested in <b>Machine Learning</b> and <b>AI</b> — for me, ent
 <a href="https://instagram.com/yourusername">
 <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-<a href="https://linkedin.com/in/yourusername">
+<a href="https://de.linkedin.com/in/niklas-br%C3%A4uninger-8a1b36217">
 <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 </p>
