@@ -42,9 +42,6 @@ I’m  interested in <b>Machine Learning</b> and <b>AI</b> — for me, enterpris
 <a href="https://medium.com/@yourusername">
 <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
 </a>
-<a href="https://instagram.com/yourusername">
-<img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
 <a href="https://de.linkedin.com/in/niklas-br%C3%A4uninger-8a1b36217">
 <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
